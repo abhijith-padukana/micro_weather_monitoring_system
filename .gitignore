@@ -1,0 +1,21 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# IDE / editor metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+.env
+.env.*
+*.local
